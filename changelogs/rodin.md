@@ -1,3 +1,12 @@
+# February 3, 2026
+- Sync with latest source
+- Upstream blobs to OS3.0.8.0.WOJMIXM
+- Disable proximity usage during doze
+- Migrate to hardware/dolby (new Dolby UI)
+- Define FRP partitions (User-reminder for prevent fingerprint crashing)
+- Switched to source-built C2 service
+- SystemUI: Add flashlight strength control
+
 # January 28,2026
 - Sync with latest source
 - Add UNOFFICIAL OTA update Support
