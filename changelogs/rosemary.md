@@ -1,3 +1,7 @@
+# May 14, 2026
+- Merge May 2026 security patch
+- Synced with latest LOS trees (fixed usb tethering)
+
 # April 18, 2026
 - Switch to EROFS
 - Fixed EIS
